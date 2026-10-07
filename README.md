@@ -16,17 +16,12 @@
 <img src="https://img.shields.io/badge/CSS3-Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <br><br>
-
 ### `Code • Create • Learn • Improve`
-
 <sub>
 Student developer from Panama 🇵🇦 — turning ideas into projects one line at a time.
 </sub>
-
 <br><br>
-
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn"
 />
-
 </div>
