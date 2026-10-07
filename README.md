@@ -20,7 +20,6 @@
 <sub>
 Student developer from Panama 🇵🇦 — turning ideas into projects one line at a time.
 </sub>
-<br><br>
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn"
 />
