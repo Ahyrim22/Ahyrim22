@@ -1,12 +1,18 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Python%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Building%20clean%2C%20creative%20and%20useful%20projects&descAlignY=60&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Ahyram%20Mart%C3%ADnez&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Python%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS&descAlignY=58&descSize=17&animation=fadeIn"
 />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&center=true&vCenter=true&width=700&lines=Building+clean%2C+creative+and+useful+projects;Learning+one+line+at+a+time;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Improve"
+/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,vscode,github&theme=dark" />
 
 <br><br>
 
@@ -23,5 +29,9 @@ Student developer from Panama 🇵🇦 — turning ideas into projects one line 
 </sub>
 
 <br><br>
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn"
+/>
 
 </div>
